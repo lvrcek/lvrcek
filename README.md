@@ -21,11 +21,11 @@
 <br>
 <br>
 
-- 📚 Interested in Deep Learning 🧠 and Computation Genomics 🧬
-- 🔭 Currently working on applying graph neural networks to assembly graphs
+- 📚 Interested in Deep Learning 🧠 and Computational Genomics 🧬
+- 🔭 Currently working on applying Graph Neural Networks to *de novo* Genome Assembly
 - 👨‍💻 My go-to languages and frameworks: Python, PyTorch, DGL
-- 📫 How to reach me: vrcek.lovro@gmail.com (or by clicking on any of the buttons above)
-- ⚡ Hobbies: Rock climbing 🧗‍♂️, swimming 🏊‍♂️, reading 📖
+- 📫 How to reach me: vrcek.lovro@gmail.com (or by clicking any of the buttons above)
+- ⚡ Hobbies: Rock Climbing 🧗‍♂️, Swimming 🏊‍♂️, Reading 📖
 
 <br>
 
