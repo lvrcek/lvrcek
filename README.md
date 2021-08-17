@@ -1,5 +1,9 @@
 ### Hi there, I'm Lovro 👋
 
+<!--
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lvrcek)
+[![GitHub followers](https://img.shields.io/github/followers/lvrcek.svg?style=social&label=Follow)](https://github.com/lvrcek?tab=followers)
+-->
 
 <a href="https://github.com/lvrcek">
   <img align="left" alt="Lovro's Github" width="32px" src="https://img.icons8.com/material/50/6a9fb5/source-code.png" />
