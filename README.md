@@ -4,7 +4,7 @@
 <a href="https://github.com/lvrcek">
   <img align="left" alt="Lovro's Github" width="32px" src="https://img.icons8.com/material/50/6a9fb5/source-code.png" />
 </a>
-<a href="https://twitter.com.lovrovrcek">
+<a href="https://twitter.com/lovrovrcek">
   <img align="left" alt="Lovro's Twitter" width="32px" src="https://img.icons8.com/material/50/6a9fb5/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/lovro-vr%C4%8Dek/">
