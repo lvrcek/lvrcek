@@ -31,8 +31,14 @@
 
 <a href="https://github.com/lvrcek">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvrcek&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvrcek&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvrcek&theme=tokyonight&layout=compact&hide=jupyter%20notebook" />
 </a>
+
+
+<!--
+ If you want to add Jupyter Notebook on language stats badge, use this link instead:
+https://github-readme-stats.vercel.app/api/top-langs/?username=lvrcek&theme=tokyonight&layout=compact
+-->
 
 <!--
 **lvrcek/lvrcek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
