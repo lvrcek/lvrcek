@@ -31,9 +31,13 @@
 
 <a href="https://github.com/lvrcek">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvrcek&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvrcek&theme=tokyonight&layout=compact" />
 </a>
 
+
+<!--
+ For language overview:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvrcek&theme=tokyonight&layout=compact" />
+-->
 
 <!--
  If you want to hide Jupyter Notebook on language stats badge, use this link instead:
