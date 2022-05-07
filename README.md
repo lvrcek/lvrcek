@@ -12,7 +12,7 @@
   <img align="left" alt="Lovro's Twitter" width="32px" src="https://img.icons8.com/material/50/6a9fb5/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/lovro-vr%C4%8Dek/">
-  <img align="left" alt="Lovro's Linkdein" width="32px" src="https://img.icons8.com/material/50/6a9fb5/linkedin.png" />
+  <img align="left" alt="Lovro's LinkedIn" width="32px" src="https://img.icons8.com/material/50/6a9fb5/linkedin.png" />
 </a>
 <a href="mailto:vrcek.lovro@gmail.com">
   <img align="left" alt="Lovro's email" width="32px" src="https://img.icons8.com/material/50/6a9fb5/gmail.png" />
@@ -24,7 +24,7 @@
 - 📚 Interested in Deep Learning 🧠 and Computational Genomics 🧬
 - 🔭 Currently working on applying Graph Neural Networks to *de novo* Genome Assembly
 - 👨‍💻 My go-to languages and frameworks: Python, PyTorch, DGL
-- 📫 How to reach me: vrcek.lovro@gmail.com (or by clicking any of the buttons above)
+- 📫 How to reach me: Send an email to **vrcek dot lovro at gmail dot com** (or by clicking any of the buttons above)
 - ⚡ Hobbies: Rock Climbing 🧗‍♂️, Swimming 🏊‍♂️, Reading 📖
 
 <br>
